@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+# Ex. No.6  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -49,8 +49,8 @@
 
 
 
-### Name:
-### Register Number:
+### Name:SHREE LEKHA.S
+### Register Number: 212223110052
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
